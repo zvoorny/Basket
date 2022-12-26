@@ -1,0 +1,15 @@
+{
+"companyName": "Zverny",
+"productName": "BasketPin",
+"productVersion": "0.0.0.1",
+"dataUrl": "BasketPin3.data.unityweb",
+"wasmCodeUrl": "BasketPin3.wasm.code.unityweb",
+"wasmFrameworkUrl": "BasketPin3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1A183F",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
